@@ -4,6 +4,8 @@ Web App developed in the Udemy course "Node with React: Fullstack Web Developmen
 
 It's able to maintain surveys, buy credits with real payment, send e-mails and handle webhooks.
 
+See my demo in: https://emaily-rodgars.herokuapp.com/
+
 Link of the course: https://www.udemy.com/node-with-react-fullstack-web-development
 
 ## Technologies
